@@ -1,3 +1,17 @@
+## 👨‍🎓 Integrantes:
+
+Michelle Cavalari
+
+Gustavo Zanetti Martins
+
+## 👩‍🏫 Professores:
+## Tutor(a)
+Leoruiz197
+
+## Coordenador(a)
+André Godoy
+
+
 # 🌾 Classificação de Grãos de Trigo com Machine Learning
 
 Projeto desenvolvido na graduação em Inteligência Artificial da FIAP, com o objetivo de automatizar a classificação de grãos de trigo utilizando técnicas de aprendizado de máquina, aplicando a metodologia CRISP-DM.
